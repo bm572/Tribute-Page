@@ -1,0 +1,75 @@
+h1 {
+	font: helveticca;
+	text-align: center;
+	font-size: 40px;
+}
+
+p {
+	display: center;
+	text-align: center;
+	font-family: open sans;
+	font-style: italics;
+	font-size: 20px;
+}
+	
+}
+
+#img-caption {
+	text-align: center;
+	font-style: times new roman;
+	font-size: 150px;
+	
+	
+}
+
+#image {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+#tribute-info {
+	font-style: times new roman;
+	font-size: 15px;
+	text-align: center;
+}
+
+#tribute-link {
+	text-align: center;
+	text-size: 25px;
+}
+
+ul {
+	text-align: center;
+	font-size: 20px;
+	font-style:  italics;
+	font-weight: 1px;
+	font-family: open sans serif;
+	
+}
+
+
+
+#last-song-link{
+	color: white;
+	font-family: open sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+
+
+}
+
+#interview-link{
+	color: white;
+	font-size: 20px;
+	font-family: open sans-serif;
+	text-decoration: none;
+
+}
+
+#tribute-info{
+	color: white;
+	font-size: 15px;
+	font-family: open sans-serif;
+	text-decoration: none;
+}
